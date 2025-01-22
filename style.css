@@ -9,4 +9,7 @@
 #center {
     justify-content: center;
 }
+body {
+    background: linear-gradient(45deg, purple, blue)
 
+}
